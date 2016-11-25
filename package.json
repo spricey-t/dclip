@@ -1,0 +1,25 @@
+{
+  "name": "dclip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virohtus/dclip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virohtus/dclip/issues"
+  },
+  "homepage": "https://github.com/virohtus/dclip#readme",
+  "dependencies": {
+    "config": "^1.24.0",
+    "discord.js": "^10.0.1",
+    "node-opus": "^0.2.4",
+    "winston": "^2.3.0"
+  }
+}
